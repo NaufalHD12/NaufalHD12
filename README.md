@@ -13,7 +13,7 @@ I'm currently part of the Bangkit Academy 2024 Cohort following the Machine Lear
 * SQL, Pandas, NumPy, Matplotlib, Seaborn
 * Recommender Systems & Sentiment Analysis
 ## 📫 Get in Touch
-* [Linkedin](https://www.linkedin.com/in/naufal-hadi-darmawan-235237280/)
+* [Linkedin](https://www.linkedin.com/in/naufalhd12)
 * [Email](hadinaufal06@gmail.com)  
 Let's connect and collaborate on exciting machine learning and data science projects!
 
