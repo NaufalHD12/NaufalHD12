@@ -14,7 +14,7 @@ I'm currently part of the Bangkit Academy 2024 Cohort following the Machine Lear
 - Database Management: SQL
 - Version Control: Git, GitHub
 - Cloud Platforms: Google Cloud Platform
-- Others: Docker, Jupyter Notebook, VS Code
+- Others: Docker, Google Colab, VS Code
 
 ## 📫 Get in Touch
 * [Linkedin](https://www.linkedin.com/in/naufalhd12)
