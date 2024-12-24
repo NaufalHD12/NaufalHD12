@@ -1,17 +1,10 @@
 # Hi, I'm Naufal Hadi Darmawan 👋
 ## Machine Learning Enthusiast & Aspiring Data Scientist  
-Welcome to my GitHub! I'm a 5th-semester Software Engineering student at Universitas Pendidikan Indonesia, passionate about using machine learning and data science to solve real-world problems.
+Welcome to my GitHub! As a third-year Software Engineering student at Universitas Pendidikan Indonesia, I have developed strong skills in data and machine learning, backed by over two years of extensive Python programming experience. I am currently focused on enhancing my expertise in data analysis and machine learning to solve complex problems and drive innovation. Looking ahead, I aspire to become a Data Scientist or AI Engineer, contributing to cutting-edge projects and shaping the future of technology by developing intelligent systems that make a meaningful impact.
 ## 💡 What I Do  
-I specialize in developing data-driven solutions, with a focus on:
-* Machine Learning: Supervised & unsupervised learning, model optimization, and performance evaluation.
-* Data Science: Data collection, cleaning, exploratory data analysis (EDA), and visualization.
-* Natural Language Processing (NLP): Sentiment analysis, text classification, and NLP-based recommender systems.
-* Recommender Systems: Collaborative filtering, hybrid approaches, and personalized systems.
-## 🌱 Current Focus
-I'm currently part of the Bangkit Academy 2024 Cohort following the Machine Learning Path, working on real-world projects and expanding my technical skill set in:  
-* Python, Scikit-Learn, TensorFlow, PyTorch
-* SQL, Pandas, NumPy, Matplotlib, Seaborn
-* Recommender Systems & Sentiment Analysis
+I'm currently part of the Bangkit Academy 2024 Cohort following the Machine Learning Path, working on real-world projects and expanding my technical skill set in:
+* Data Analysis: Data Wrangling, Data Assessing, Data Cleaning, Exploratory Data Analysis, Data Visualization, and Data Communication
+* Machine Learning & Deep Learning: Supervised Learning, Unsupervised learning, Natural Language Processing, Recommender Systems, Reinforcement Learning, Generative AI, and ML Ops 
 ## 📫 Get in Touch
 * [Linkedin](https://www.linkedin.com/in/naufalhd12)
 * [Email](hadinaufal06@gmail.com)  
