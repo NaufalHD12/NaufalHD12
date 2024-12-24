@@ -10,7 +10,7 @@ I'm currently part of the Bangkit Academy 2024 Cohort following the Machine Lear
 ## 🛠️ Skills and Tools
 - Programming Languages: Python, C++, Java, Javascript, PHP
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-Learn, TensorFlow, PyTorch
+- Machine Learning: Scikit-Learn, TensorFlow, PyTorch, OpenCV
 - Database Management: SQL
 - Version Control: Git, GitHub
 - Cloud Platforms: Google Cloud Platform
