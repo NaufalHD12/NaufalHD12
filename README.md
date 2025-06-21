@@ -27,7 +27,7 @@
   <tr>
     <td valign="top" width="65%">
         <p>
-        As a final-year <strong>Software Engineering</strong> student at <strong>Universitas Pendidikan Indonesia (GPA 3.77)</strong>, I have a strong passion for AI and data science. I am experienced in various areas, including:</p>
+        As a final-year <strong>Software Engineering</strong> student at <strong>Universitas Pendidikan Indonesia</strong>, I have a strong passion for AI and data science. I am experienced in various areas, including:</p>
         <ul>
             <li>&#x1F4CA; Data Analysis & Predictive Modeling</li>
             <li>&#x1F4BB; Computer Vision & Recommendation Systems</li>
