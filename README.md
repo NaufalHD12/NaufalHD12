@@ -1,125 +1,125 @@
-<div align="center">
-
-# NAUFAL HADI DARMAWAN
-
-### _AI & Data Enthusiast_
-
-<p>
-  A final-year Software Engineering student with a deep passion for Artificial Intelligence (AI) and data science. I am dedicated to applying technology to create real impact and drive innovation.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
 </p>
 
-<p>
-  <a href="mailto:hadinaufal06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/naufalhd12/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/NaufalHD12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<h1 align="center">Hi there, I'm Naufal HD 👋</h1>
+<p align="center">
+  I'm a passionate <strong>Software & AI Engineer</strong> from Indonesia, specializing in building intelligent, scalable, and user-centric web applications. I'm driven by the challenge of solving complex problems at the intersection of modern backend systems and machine learning.
+  <br>
+  <br>
+  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+    <strong>🚀 View My Deployed Portfolio</strong>
+  </a>
 </p>
 
-</div>
+<p align="center">
+  <strong>Connect with me:</strong>
+  <br>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-<details>
-<summary>
-    <samp>&#9733; <strong>About Me</strong></samp>
-</summary>
+### 💻 My Tech Stack
+
+Here's a snapshot of the tools and technologies I work with.
 
 <table>
   <tr>
-    <td valign="top" width="65%">
-        <p>
-        As a final-year <strong>Software Engineering</strong> student at <strong>Universitas Pendidikan Indonesia</strong>, I have a strong passion for AI and data science. I am experienced in various areas, including:</p>
-        <ul>
-            <li>&#x1F4CA; Data Analysis & Predictive Modeling</li>
-            <li>&#x1F4BB; Computer Vision & Recommendation Systems</li>
-            <li>&#x1F9E0; Generative AI & LLM Engineering</li>
-            <li>&#x1F4AC; Sentiment Analysis</li>
-        </ul>
-        <p>I am a quick and adaptive learner, effective both independently and in team environments. My mission is to apply technology to create real-world impact and drive innovation.</p>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <br><strong>Backend</strong>
     </td>
-    <td width="35%" align="center">
-      <img src="joker.jpg" alt="Naufal Hadi Darmawan" width="200" style="border-radius:10px; border:2px solid #E53E3E;">
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/HapiJS-000000?style=for-the-badge&logo=hapi&logoColor=white" alt="HapiJS"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <br><strong>Frontend</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+      <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <br><strong>AI/ML</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <br><strong>DevOps/Tools</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
     </td>
   </tr>
 </table>
 
-</details>
+---
 
-<details>
-<summary>
-    <samp>&#x1F4BC; <strong>Work Experience</strong></samp>
-</summary>
+### 📊 My GitHub Stats
 
-- **AI Engineer Intern – PT Kilang Pertamina Internasional** (_Feb 2025 – May 2025_)
-  - Designed an intelligent automation system to extract information from PDF documents, improving the Multimedia team's operational efficiency by 50% using a RAG architecture, LangChain, and GPT-4o-mini.
+These stats are styled to match your Persona-themed portfolio (dark navy background, neon blue accents).
 
-- **Data Scientist Intern – Home Credit Indonesia** (_Feb 2025 – Mar 2025_)
-  - Gained hands-on experience through real-world case studies, applying SQL, Python, and Machine Learning to solve an end-to-end scorecard modeling challenge.
-
-</details>
-
-<details open>
-<summary>
-    <samp>&#x1F680; <strong>Featured Projects</strong></samp>
-</summary>
-
-| Project                                 | Description                                                                                                                                                                             | Technologies                                                              | Link                                                                         |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **VentureMind — AI Business Co-Pilot** | A multi-agent AI system that collaborates to generate comprehensive business strategy reports using CrewAI & GPT-4.1-mini.                                                       | `Python` `FastAPI` `CrewAI` `PostgreSQL` `Docker`                      | [GitHub](https://github.com/NaufalHD12/venture-mind)                           |
-| **Synapsis AI — Smart CV Screening** | An intelligent system to analyze job descriptions against dozens of CVs simultaneously (English & Indonesian) using the DeepSeek API.                                              | `Python` `Flask` `PyMuPDF` `Pandas` `DeepSeek API`                     | [GitHub](https://github.com/NaufalHD12/synapsis-ai)                            |
-| **AcneScan — Acne Detection App**| Trained a CNN model with TensorFlow to detect and classify acne types from images, and deployed a Flask API on Google Cloud Run.                                      | `TensorFlow` `CNN` `Flask` `Docker` `GCP`                              | [GitHub](https://github.com/Acne-Scan)                                         |
-| **Anime Recommendation System** | Developed a recommendation system using Content-Based & Collaborative Filtering to help users discover new anime.                                                     | `Python` `TensorFlow` `Scikit-learn` `Pandas`                          | [GitHub](https://github.com/NaufalHD12/anime-recommendation-system)            |
-| **Student Performance Predictor** | Built a regression model to predict students' final grades based on demographic, behavioral, and academic features.                                                                     | `Python` `Scikit-learn` `Pandas` `CatBoost` `XGBoost`                  | [GitHub](https://github.com/NaufalHD12/student-performance-predictor)          |
-
-</details>
-
-<details>
-<summary>
-    <samp>&#x1F4BB; <strong>Skills & Technologies</strong></samp>
-</summary>
-
-<div align="center">
-    <p><strong>Programming Languages:</strong></p>
-    <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-    </p>
-    <p><strong>Frameworks & Libraries:</strong></p>
-    <p>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-    </p>
-    <p><strong>Tools & Platforms:</strong></p>
-    <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </p>
-</div>
-
-</details>
-
-<details>
-<summary>
-    <samp>&#x1F393; <strong>Certificates</strong></samp>
-</summary>
-
--   **Bangkit Academy 2024 - Machine Learning Path** - _Google, GoTo, Tokopedia, Traveloka_
--   **Machine Learning Specialization** - _DeepLearning.AI & Stanford University_
--   **DeepLearning.AI TensorFlow Developer Professional Certificate** - _DeepLearning.AI_
--   **Machine Learning Operations (MLOps)** - _Dicoding Indonesia_
--   **Data Analysis with Python** - _Dicoding Indonesia_
--   ... and many more.
-
-</details>
-
-<div align="center">
+<p align="center">
+  <a href="https://github.com/anuragazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF&hide_border=true" 
+      alt="Naufal's GitHub Stats"
+    />
+  </a>
+  
+  <a href="https://github.com/anuragazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=00BFFF&hide_border=true" 
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 ---
 
-</div>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dark_plus&margin-w=15&margin-h=15&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=080c14"
+      alt="Naufal's GitHub Trophies"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/YOUR_USERNAME" alt="Profile Visitor Counter"/>
+</p>
