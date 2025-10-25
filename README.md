@@ -7,7 +7,7 @@
   I'm a passionate <strong>Software & AI Engineer</strong> from Indonesia, specializing in building intelligent, scalable, and user-centric web applications. I'm driven by the challenge of solving complex problems at the intersection of modern backend systems and machine learning.
   <br>
   <br>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://naufalhd.vercel.app" target="_blank">
     <strong>🚀 View My Deployed Portfolio</strong>
   </a>
 </p>
@@ -94,14 +94,14 @@ These stats are styled to match your Persona-themed portfolio (dark navy backgro
 <p align="center">
   <a href="https://github.com/anuragazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api?username=NaufalHD12&show_icons=true&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&icon_color=00BFFF&border_color=00BFFF&hide_border=true" 
       alt="Naufal's GitHub Stats"
     />
   </a>
   
   <a href="https://github.com/anuragazra/github-readme-stats">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=00BFFF&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&theme=dark&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=00BFFF&hide_border=true" 
       alt="Top Languages"
     />
   </a>
