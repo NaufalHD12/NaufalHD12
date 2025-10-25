@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hi there, I'm Naufal 👋</h1>
-  <h3 align="center">A passionate Software & AI Engineer from Indonesia.</h3>
+  <h3 align="center">Crafting code, chasing curiosity | Software & AI Engineer from Indonesia 🌏</h3>
   <img src="https://komarev.com/ghpvc/?username=NaufalHD12&style=flat-square&color=00BFFF" alt="Profile views"/>
 </div>
 
@@ -15,6 +15,14 @@ complex problems and turning ideas into reality.
 - 🌱 I’m currently learning **Backend and Architecture of Modern Large Scale Systems**.
 - 💼 I’m looking for opportunities in **Backend Development, LLM Integration, Machine Learning, and Data Science**.
 - 📫 How to reach me: **hadinaufal06@gmail.com**
+
+---
+
+### 🎮 Hobbies & Interests
+
+<p>
+When I'm not coding, I love hitting the gym, watching anime, enjoying J-POP, and playing games 🏋️🎮🎧. These hobbies keep my creativity flowing and help me stay balanced between code and life.
+</p>
 
 ---
 
@@ -34,32 +42,80 @@ complex problems and turning ideas into reality.
 
 ---
 
-### 💻 My Tech Stack
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</details>
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=NaufalHD12&show_icons=true&theme=dark&icon_color=00BFFF&text_color=FFF&bg_color=080c14&border_color=00BFFF" 
-    alt="Naufal's GitHub Stats"
-  />
-  <br/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&theme=dark&text_color=FFF&bg_color=080c14&border_color=00BFFF"
-    alt="Top Languages"
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaufalHD12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalHD12&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalHD12&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
