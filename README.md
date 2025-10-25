@@ -114,7 +114,7 @@ These stats are styled to match your Persona-themed portfolio (dark navy backgro
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dark_plus&margin-w=15&margin-h=15&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=080c14"
+      src="https://github-profile-trophy.vercel.app/?username=NaufalHD12&theme=dark_plus&margin-w=15&margin-h=15&bg_color=080c14&title_color=00BFFF&text_color=FFF&border_color=080c14"
       alt="Naufal's GitHub Trophies"
     />
   </a>
