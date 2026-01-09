@@ -21,7 +21,7 @@ complex problems and turning ideas into reality.
 ### 🎮 Hobbies & Interests
 
 <p>
-When I'm not coding, I love hitting the gym, watching anime, enjoying J-POP, and playing games 🏋️🎮🎧. These hobbies keep my creativity flowing and help me stay balanced between code and life.
+When I'm not coding, I enjoy hitting the gym, watching anime, listening to J-POP, and playing games 🏋️🎮🎧. These hobbies keep my creativity flowing and help me maintain a balance between work and life.
 </p>
 
 ---
@@ -106,16 +106,12 @@ When I'm not coding, I love hitting the gym, watching anime, enjoying J-POP, and
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaufalHD12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalHD12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalHD12&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalHD12&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="140" alt="languages graph" />
 </div>
