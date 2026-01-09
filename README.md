@@ -111,7 +111,3 @@ When I'm not coding, I enjoy hitting the gym, watching anime, listening to J-POP
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalHD12&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="140" alt="languages graph" />
-</div>
